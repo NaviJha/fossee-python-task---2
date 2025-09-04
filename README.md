@@ -53,27 +53,4 @@ This repository contains a **single, reusable prompt** for an AI assistant that 
 
 ---
 
-## Suggested Repo Structure
-```
-.
-├── prompt.md
-└── README.md
-```
 
-## Submission Instructions
-1. Push this folder to a **public GitHub repository** (instructions below) **or** upload the two files to a publicly shareable drive.  
-2. Email the link to **pythonsupport@fossee.in** with the subject: `FOSSEE Python Screening Task 2 — Prompt Submission by <Your Name>`.
-
-## Git Commands (replace the URL with your repo)
-```bash
-git init
-git add .
-git commit -m "Add FOSSEE Task 2: AI Debugging Assistant prompt and reasoning"
-git branch -M main
-git remote add origin https://github.com/<your-username>/fossee-python-task-2-prompt.git
-git push -u origin main
-```
-
-## Notes
-- The prompt is **general** enough for many Python topics (control flow, functions, data structures, files, classes, imports) yet **specific** enough to enforce no‑solution behavior.  
-- You can extend the hint ladder with **L5 (high‑level pseudocode)** if the assignment allows it, still without providing a drop‑in answer.
